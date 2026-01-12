@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: content-box;
+
+}
+
+html,body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 500;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#container{
+    border:solid 2px #555;
+    height: 100px;
+    width:300px;
+    background-color: #222;
+}
